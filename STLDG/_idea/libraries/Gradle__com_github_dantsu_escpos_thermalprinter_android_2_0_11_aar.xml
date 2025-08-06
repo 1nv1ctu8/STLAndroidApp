@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dantsu:escpos-thermalprinter-android:2.0.11@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/214b0f114ccd87b8fc59554d8971c4d0/transformed/escpos-thermalprinter-android-2.0.11/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/214b0f114ccd87b8fc59554d8971c4d0/transformed/escpos-thermalprinter-android-2.0.11/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/214b0f114ccd87b8fc59554d8971c4d0/transformed/escpos-thermalprinter-android-2.0.11/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dantsu/escpos-thermalprinter-android/2.0.11/4c748cb021bce47f6f6ba78b48fd57bfbab11f4f/escpos-thermalprinter-android-2.0.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
