@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WORD</string>
+    <string name="logs">
+    </string>
+    <string name="tarp_code">Tarp Code</string>
+    <string name="register_booth">Register Booth</string>
+    <string name="enter_tarp_code">Enter Tarp Code</string>
+    <string name="activate_header">Activate DG App</string>
+    <string name="enter_activation_code">Enter Activation Code</string>
+    <string name="activation_code">Activation Code</string>
+</resources>

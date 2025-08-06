@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="418dp"
+        android:layout_height="359dp"
+        android:orientation="vertical">
+
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_centerInParent="true"
+            android:background="#FFFFFF"
+            android:baselineAligned="false"
+            android:gravity="center|center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radioBtnSmart"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="Smart TNT"
+                android:textSize="20sp" />
+
+            <RadioButton
+                android:id="@+id/radioBtnGlobe"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:text="Globe TM"
+                android:textSize="20sp" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:background="#60C5BB"
+            android:text="CONFIRM"
+            android:textAlignment="center"
+            android:textColor="#070000"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textSales"
+            android:layout_width="367dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/TextConfirmBets"
+            android:layout_width="131dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:textAlignment="viewStart"
+            android:textColor="#040000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewTotalSale"
+            android:layout_width="283dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_marginTop="75dp"
+            android:textAlignment="center"
+            android:textColor="#E91E63"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+</LinearLayout>
