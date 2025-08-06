@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbcb80ec-92b9-4738-86f5-74703d301023" name="Changes" comment="v4.1.1(+transceiver)GP - Changes to receipt - Bact to SGC Gaming, number at bottom 5th letter is date of Month&#10;&#10;v4.1.2(+transceiver)GP - Change app name from GOOGLE PLAY to G00GLE_PLAY&#10;                         to remove [Sent from GOOGLE PLAY] text&#10;                         &#10;v4.1.3(+transceiver)GP - Added 2  numbers for smart and 1 number for globe randomized Created separate randomizer functions for autoreceiver and transceiver number generation&#10;&#10;v4.1.4(+transceiver) - Changed app icon and name back to WORD">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_word.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_word_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_word_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_word.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_word_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_word_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_word.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_word_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_word_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_word.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_word_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_word_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_word.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_word_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_word_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/owenapps/stldg/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/owenapps/stldg/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/salesinfo_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/salesinfo_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\owen.lagula\.android\avd\Galaxy_A32_API_34.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="STL DG" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\DG Projects\AndroidStudioProjects\keystore\key_dgstl123.jks" />
+    <option name="KEY_ALIAS" value="key_dgstl123" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2DP3lAwNVuVOMrJaEB9vLtl9E7g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ApkExportedModule&quot;: &quot;STL_DG.app&quot;,
+    &quot;ExportApk.ApkPathForSTL_DG.app&quot;: &quot;C:\\DG Projects\\AndroidStudioProjects\\STLDG\\app&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ExportApk.BuildVariants&quot;: [
+      &quot;release&quot;
+    ]
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Owen.Lagula\AndroidStudioProjects\STLDG\app\src\main\res\drawable" />
+      <recent name="C:\Users\Owen.Lagula\AndroidStudioProjects\STLDG\app\src\main\res\layout" />
+      <recent name="C:\Users\Owen.Lagula\AndroidStudioProjects\STLDG\app\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owen.Lagula\AndroidStudioProjects\STLDG\app\src\main\res\drawable" />
+      <recent name="C:\Users\Owen.Lagula\AndroidStudioProjects\STLDG\app\src\main\res\mipmap-xhdpi" />
+      <recent name="C:\Users\Owen.Lagula\AndroidStudioProjects\STLDG\app\src\main\res\menu" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.owenapps.stldg" />
+    </key>
+    <key name="android.template.-1566636141">
+      <recent name="com.owenapps.stldg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="STL_DG.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="STLDG" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.STLDG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbcb80ec-92b9-4738-86f5-74703d301023" name="Changes" comment="" />
+      <created>1660587041949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660587041949</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1662807478020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662807478020</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v2.3.2&#10;Same as v2.2.0 but fixed the error where it keeps on closing with uid 10421errorSame as v2.2.0 but fixed the error where it keeps on closing with uid 10421 error everytime Send bets button is clicked&#10;                                                                          Need to allow SMS permission in settings everytime Send bets button is clicked&#10;                                                                          Need to allow SMS permission in settings">
+      <created>1664118856394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664118856394</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DG_app_smart1_v2.2.4&#9;Activation code. Asks activation code after installation. App closes if wrong activation code.&#10;DG_app_globe1_v2.2.4&#9;Check for printer connection and prints before sending SMS. Before, sends SMS first before printing&#10;&#9;PS… need to fix progressbar&#10;&#9;&#10;DG_app_smart1_v2.2.5&#9;Moved looping for SMS line bets inside bluetooth checking. Fix issue on duplicate send&#10;DG_app_globe1_v2.2.5&#9;Changed Activation code input to password type&#10;DG_app_Test_09688826959_v2.2.4&#9;Modified printing toast message for printer detection">
+      <created>1665498213904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665498213904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v4.1.1(+transceiver)GP - Changes to receipt - Bact to SGC Gaming, number at bottom 5th letter is date of Month&#10;&#10;v4.1.2(+transceiver)GP - Change app name from GOOGLE PLAY to G00GLE_PLAY&#10;                         to remove [Sent from GOOGLE PLAY] text&#10;                         &#10;v4.1.3(+transceiver)GP - Added 2  numbers for smart and 1 number for globe randomized Created separate randomizer functions for autoreceiver and transceiver number generation&#10;&#10;v4.1.4(+transceiver) - Changed app icon and name back to WORD">
+      <created>1690261039956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690261039956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="5d9e9145-5fef-4469-8efc-23b3e86fc987">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="5d9e9145-5fef-4469-8efc-23b3e86fc987" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Added Tarp Code Fixed Cut off time." />
+    <MESSAGE value="v2.3.1&#10;Fixed printing unstable/disconnects&#10;Moved tarp code checking to addbuttons clicklistener&#10;Added back checking of betting time between 6am-8:50pm" />
+    <MESSAGE value="v2.3.2&#10;Same as v2.2.0 but fixed the error where it keeps on closing with uid 10421errorSame as v2.2.0 but fixed the error where it keeps on closing with uid 10421 error everytime Send bets button is clicked&#10;                                                                          Need to allow SMS permission in settings everytime Send bets button is clicked&#10;                                                                          Need to allow SMS permission in settings" />
+    <MESSAGE value="DG_app_smart1_v2.2.4&#9;Activation code. Asks activation code after installation. App closes if wrong activation code.&#10;DG_app_globe1_v2.2.4&#9;Check for printer connection and prints before sending SMS. Before, sends SMS first before printing&#10;&#9;PS… need to fix progressbar&#10;&#9;&#10;DG_app_smart1_v2.2.5&#9;Moved looping for SMS line bets inside bluetooth checking. Fix issue on duplicate send&#10;DG_app_globe1_v2.2.5&#9;Changed Activation code input to password type&#10;DG_app_Test_09688826959_v2.2.4&#9;Modified printing toast message for printer detection" />
+    <MESSAGE value="DG_app_smart1_v4.0.0&#9;Added Splash screen with secret trigger to restrict unauthorized access to Main page&#10;DG_app_globe1_v4.0.0&#9;Fixed inappropriate cut-off time pop up message&#10;DG_app_Test_09688826959_v4.0.0&#9;Changed icon and app name to WORD&#10;&#9;&#10;DG_app_smart1_v4.0.1&#9;Change logic of cut off time for 9pm draw&#10;DG_app_globe1_v4.0.1&#9;Changed wordings of cutoff time. Made two separate messages for each cases&#10;DG_app_Test_09688826959_v4.0.1&#9;Added cut off time logic to add bets event" />
+    <MESSAGE value="v4.1.1(+transceiver)GP - Changes to receipt - Bact to SGC Gaming, number at bottom 5th letter is date of Month&#10;&#10;v4.1.2(+transceiver)GP - Change app name from GOOGLE PLAY to G00GLE_PLAY&#10;                         to remove [Sent from GOOGLE PLAY] text&#10;                         &#10;v4.1.3(+transceiver)GP - Added 2  numbers for smart and 1 number for globe randomized Created separate randomizer functions for autoreceiver and transceiver number generation&#10;&#10;v4.1.4(+transceiver) - Changed app icon and name back to WORD" />
+    <option name="LAST_COMMIT_MESSAGE" value="v4.1.1(+transceiver)GP - Changes to receipt - Bact to SGC Gaming, number at bottom 5th letter is date of Month&#10;&#10;v4.1.2(+transceiver)GP - Change app name from GOOGLE PLAY to G00GLE_PLAY&#10;                         to remove [Sent from GOOGLE PLAY] text&#10;                         &#10;v4.1.3(+transceiver)GP - Added 2  numbers for smart and 1 number for globe randomized Created separate randomizer functions for autoreceiver and transceiver number generation&#10;&#10;v4.1.4(+transceiver) - Changed app icon and name back to WORD" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/owenapps/stldg/MainActivity.kt</url>
+          <line>719</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/STL_DG$STLDG.ic" NAME="STLDG Coverage Results" MODIFIED="1661787031141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
