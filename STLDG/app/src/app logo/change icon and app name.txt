@@ -1,0 +1,7 @@
+change icon
+https://www.youtube.com/watch?v=bJjHgWjiAKw
+
+change app name
+in manifest.xml change 
+android:label="WORD"
+android:label="LAZADA"
